@@ -2,7 +2,7 @@
 {
 "update" : "1.1" , "update_link" : "https://play.google.com/store/apps/details?id=com.linkstore.random",
 "update_key" : "cancel_update" , "search_link" : "https://www.xnxx.com/search/" ,
-"banner_ads" : "open" , "inter_ads" : "open" ,
+"banner_ads" : "close" , "inter_ads" : "close" ,
 "banner_image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz3mw7UVzxtF2JuviHVdA3OTVQBromtpBbeBDQsXaLdVzPEqky1BIV4GEMkohhZu2QruEK0CgndUWppFZq-zbAsIDzQ1HUPTufsNQ1HtSZN56kz2kxcdunb4CaUKepo80x0iMEzHP_k9v7AekFOvc_LWvtGm9jbYQlMahR7xJVgfxI-Vy2mmLpX-cdnQ/s575/14-05_Game_Ad_Motion_AdobeExpress.gif",
 "inter_image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZr2aKNo5xaPj57BDF6jVZcwMH3mzN6YoN15DjU2C565zPnqLHTtmJN8mn2MtGUJVcFeDlV7Yld42FdWa5sqVmZW1BIFOl7d2vmYDVcPcPiRnxRCNyxrybbJailZzLE12PDlvtLYtGRNoE1d_I5SYskTzxIJBPFrYMsnse4DoTFLbSq6hQfhXl10jKPA/s910/Ads_inwa777-410x910.gif",
 "banner_link" : "https://bit.ly/3NyWFH3",
